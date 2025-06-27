@@ -115,7 +115,6 @@ iam:
 vpc:
   id: "vpc-12345678"
   subnets:
-    private:
       us-east-1a:
         id: "subnet-11111111"
       us-east-1b:
